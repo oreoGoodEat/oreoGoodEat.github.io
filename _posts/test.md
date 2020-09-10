@@ -1,9 +1,11 @@
 ---
 layout: page
-title:  "study about github"
-subtitle: "A longer explanation of stuff"
-date:   2020-09-10 21:21:21 +0530
-categories: ["general"]
+title: "This post demonstrates post content styles"
+subtitle: "This is a subtitle"
+date:   2016-05-20 21:21:21 +0530
+categories: junk
+author: "Bart Simpson"
+meta: "Springfield"
 ---
 
 # 搭建个人技术博客
