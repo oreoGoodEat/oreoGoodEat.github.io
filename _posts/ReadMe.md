@@ -1,3 +1,11 @@
+---
+layout: page
+title:  "study about github"
+subtitle: "A longer explanation of stuff"
+date:   2020-09-10 21:21:21 +0530
+categories: ["general"]
+---
+
 # 搭建个人技术博客
 
 > 使用GitHub Pages + Jekyll 快速部署个人博客
