@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: self
 title: messages
 oreo: GoodEat
 ---
