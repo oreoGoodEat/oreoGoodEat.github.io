@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "This post demonstrates post content styles"
+title: "oreo"
 subtitle: "This is a subtitle"
 date:   2016-05-20 21:21:21 +0530
 categories: junk

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  GitHub 
-subtitle: "A shorter explanation of stuff"
+subtitle: "笔记"
 date:   2016-05-20 21:21:21 +0530
 categories: misc
 ---
