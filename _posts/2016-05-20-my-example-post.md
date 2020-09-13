@@ -5,6 +5,9 @@ subtitle: 完整URL
 date:   2020-09-11 15:14:21 +0530
 categories: ["概念"]
 ---
+## 
+
+## 
 
  - 完整url：协议 + 域名 + 端口 + 文件路径 + 参数
  - 协议：http https ws wss ftp sftp .... 客户端与服务端双方约定的一种处理请求方式的方式
