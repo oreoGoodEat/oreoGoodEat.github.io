@@ -3,6 +3,31 @@ layout: page
 categories: ["代码"]
 ---
 
+#### 总结
+
+`<a href="#id">点击返回#后面的id的啊标签</a>`
+
+table   标签中`style="border-collapse: collapse;"`这是选择将边框合在一起，默认边框分开
+
+select  创建下拉列表
+    
+- autofocus 规定下拉时自动获得焦点
+- disabled  规定该属性为true时禁用下拉列表
+- form      值：form_id  定义select所属字段一个或多个表单，即添加了表单的id，即使不在表单内也属于表单
+- multiple  规定可以选择多个选项
+- name      值：text 规定下拉列表的名称
+- required  规定在提交表单之前必须选择一个选项
+- size      值：number 规定可见项目
+
+
+option  定义下拉列表的一个选项 标签中的内容作为`<select>`或`<datalist>`一个元素使用
+
+- `<option>` 标签可以在不带有任何属性的情况下使用 通常需要使用 value 属性，此属性会指示出被送往服务器的内容
+- 与 select 元素配合使用此标签，否则这个标签是没有意义的
+- 如果列表选项很多，可以使用 `<optgroup>` 标签对相关选项进行组合
+
+
+
 ```html
 <div class="div_form_2">
     <form action="">
@@ -99,22 +124,3 @@ categories: ["代码"]
 
 ```
 
-#### 总结
-
-table   标签中`style="border-collapse: collapse;"`这是选择将边框合在一起，默认边框分开
-
-select  创建下拉列表
-    
-    - autofocus 规定下拉时自动获得焦点
-    - disabled  规定该属性为true时禁用下拉列表
-    - form      值：form_id  定义select所属字段一个或多个表单，即添加了表单的id，即使不在表单内也属于表单
-    - multiple  规定可以选择多个选项
-    - name      值：text 规定下拉列表的名称
-    - required  规定在提交表单之前必须选择一个选项
-    - size      值：number 规定可见项目
-
-
-option  定义下拉列表的一个选项 标签中的内容作为<select>或<datalist>一个元素使用
-    - <option> 标签可以在不带有任何属性的情况下使用 通常需要使用 value 属性，此属性会指示出被送往服务器的内容
-    - 与 select 元素配合使用此标签，否则这个标签是没有意义的
-    - 如果列表选项很多，可以使用 <optgroup> 标签对相关选项进行组合
