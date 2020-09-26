@@ -77,7 +77,7 @@ option  定义下拉列表的一个选项 标签中的内容作为`<select>`或`
                     <input type="text" maxlength="" style="width: 40px;" value="">
                     -电话号码
                     <input type="tel" maxlength="11" style="width: 80px;" value="">
-                    -分机号码
+                    -分区号码
                     <input type="tel" maxlength="11" style="width: 80px;" value="">
                 </td>
             </tr>
