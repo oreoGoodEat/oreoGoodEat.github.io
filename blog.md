@@ -12,7 +12,6 @@ subtitle: Select ramblings of Pudhina
 {% if category.name %} 
 - - - - -  {{ category.name }} - - - - - 
 
-<hr>
 {% else %} 
 {{ Print }} 
 {% endif %}
