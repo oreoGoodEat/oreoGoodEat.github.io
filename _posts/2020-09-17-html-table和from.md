@@ -1,6 +1,6 @@
 ---
 layout: page
-categories: ["代码"]
+categories: ["html-css"]
 ---
 
 #### 总结
@@ -27,6 +27,7 @@ option  定义下拉列表的一个选项 标签中的内容作为`<select>`或`
 - 如果列表选项很多，可以使用 `<optgroup>` 标签对相关选项进行组合
 
 
+以下的代码是一个表格
 
 ```html
 <div class="div_form_2">
