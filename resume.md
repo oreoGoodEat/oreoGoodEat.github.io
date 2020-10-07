@@ -1,7 +1,7 @@
 ---
 layout: page
 title: oreoGoodEat
-subtitle: An awesome person
+subtitle: 个人简历
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
